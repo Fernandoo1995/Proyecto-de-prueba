@@ -1,2 +1,3 @@
 # Proyecto-de-prueba
-Desafio de coder
+Este es el repositorio correspondiente al desafio de Coder.
+
